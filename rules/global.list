@@ -1,0 +1,12 @@
+  # 抗 DNS 污染
+  - DOMAIN-KEYWORD,amazon,🌐总代理
+  - DOMAIN-KEYWORD,facebook,🌐总代理
+  - DOMAIN-KEYWORD,instagram,🌐总代理
+  - DOMAIN-KEYWORD,dropbox,🌐总代理
+  - DOMAIN-KEYWORD,twimg,🌐总代理
+  - DOMAIN-KEYWORD,twitter,🌐总代理
+  - DOMAIN-KEYWORD,whatsapp,🌐总代理
+  - DOMAIN-SUFFIX,fb.me,🌐总代理
+  - DOMAIN-SUFFIX,fbcdn.net,🌐总代理
+  - DOMAIN-SUFFIX,fbsbx.com,🌐总代理
+  - DOMAIN-SUFFIX,geetest.com,🌐总代理
