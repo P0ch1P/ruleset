@@ -1,0 +1,22 @@
+  # Steam
+  - DOMAIN,api.steampowered.com,🎮Steam
+  - DOMAIN,store.steampowered.com,🎮Steam
+  - DOMAIN-SUFFIX,steampowered.com,DIRECT
+  - DOMAIN-SUFFIX,steam-chat.com,🎮Steam
+  - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net,🎮Steam
+  - DOMAIN-SUFFIX,steamcommunity.com,🎮Steam
+  - DOMAIN-SUFFIX,steamcontent.com,🎮Steam
+  - DOMAIN-SUFFIX,steamgames.com,🎮Steam
+  - DOMAIN-SUFFIX,steamstat.us,🎮Steam
+  - DOMAIN-SUFFIX,steamstatic.com,🎮Steam
+  - DOMAIN-SUFFIX,steamusercontent.com,🎮Steam
+
+  # SteamCDN
+  - DOMAIN,st.dl.eccdnx.com,DIRECT
+  - DOMAIN,st.dl.bscstorage.net,DIRECT
+  - DOMAIN,dl.steam.clngaa.com,DIRECT
+  - DOMAIN,st.dl.pinyuncloud.com,DIRECT
+  - DOMAIN,xz.pphimalayanrt.com,DIRECT
+  - DOMAIN,cdn-ws.content.steamchina.com,DIRECT
+  - DOMAIN,steampipe.steamcontent.tnkjmec.com,DIRECT
+  - DOMAIN,cdn.mileweb.cs.steampowered.com.8686c.com,DIRECT
